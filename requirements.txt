@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pillow
+python-multipart
+easyocr
+opencv-python-headless
+pygments
+gradio
+requests
+openai
+transformers
+accelerate
+torch
+black
